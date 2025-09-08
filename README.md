@@ -1,36 +1,47 @@
+# Saasland – SaaS & Startup React JS Template
 
+#### Preview
 
-# Welcome to your saasland project
+- [Demo](https://themewagon.github.io/saasland/)
 
-## How can I edit this code?
+#### Download
 
-There are several ways of editing your application.
+- [Download from ThemeWagon](https://themewagon.com/themes/saasland/)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Getting Started
 
-Follow these steps:
+1. Clone Repository
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+git clone https://github.com/themewagon/freshcart.git
 ```
 
-## What technologies are used for this project?
+2. Install Dependencies
 
-This project is built with:
+```
+npm i
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+3. Run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+## Author
+
+```
+Design and code is completely written by Codescandy and development team.
+```
+
+## License
+
+- Design and Code is Copyright &copy; [Codescandy](https://codescandy.com/)
+- Licensed cover under [MIT]
+- Distributed by [ThemeWagon](https://themewagon.com)
