@@ -13,7 +13,7 @@
 1. Clone Repository
 
 ```
-git clone https://github.com/themewagon/freshcart.git
+git clone https://github.com/themewagon/saasland.git
 ```
 
 2. Install Dependencies

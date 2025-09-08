@@ -86,7 +86,7 @@ const Navbar = () => {
           </div>
 
           {/* CTA Button */}
-          <div className="hidden">
+          <div className="hidden md:block invisible">
             <Link
               to="https://codescandy.com/"
               target="_blank"
